@@ -1,0 +1,107 @@
+@media only screen and (max-width:425px){
+
+body{
+background-image: url(https://raw.githubusercontent.com/shohanalli/noon-images/main/bangladesh-flag-depic4026.jpg);
+background-attachment: fixed;
+
+
+}
+
+p{
+color: rgb(82, 5, 82);
+
+font-size: 20px;
+
+
+}
+h1{
+color:rgba(0, 0, 0, 0.911);
+
+}
+
+}
+
+
+@media only screen and (min-width:426px){
+
+body{
+background-image: url(https://raw.githubusercontent.com/shohanalli/noon-images/main/10_Remembering-Bangladesh.jpg);
+background-attachment: fixed;
+
+}
+
+img{
+    height: 150px;
+    width: 300px;
+    
+    }
+
+p{
+color:green;
+
+font-size: 30px;
+
+
+}
+h1{
+color:deeppink;
+
+}
+
+}
+
+
+@media only screen and (min-width:768px){
+
+body{
+background-image: url(https://raw.githubusercontent.com/shohanalli/noon-images/main/victory-day-15345-1543637268.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+img{
+    height: 200px;
+    width: 350px;
+    
+    }
+
+p{
+color:darkblue;
+
+font-size: 25px;
+
+
+}
+h1{
+color:black;
+
+}
+
+}
+
+
+@media only screen and (min-width:1024px){
+
+body{
+background-image: url(https://raw.githubusercontent.com/shohanalli/noon-images/main/c1cce1ed_b.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+p{
+color:darkblue;
+
+font-size: 25px;
+
+
+}
+h1{
+color:black;
+
+}
+img{
+height: 250px;
+width: 400px;
+
+}
+
+}
